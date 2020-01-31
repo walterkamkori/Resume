@@ -1,0 +1,16 @@
+body{
+  background-color: green;
+}
+img{border-radius: 50%;
+width:70%;
+}
+p{
+  color:blue;
+  text-align: center;
+}
+h4{
+  color:#dab8f3;
+  font-size:30px;
+  font-weight: bold;
+  font-style: normal;
+}
